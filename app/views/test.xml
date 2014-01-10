@@ -1,0 +1,8 @@
+<Alloy>
+    <Window id="testWin" class="container">
+    	<Label class="button">Test:</Label>
+    	<Button class="button" id="butStartHeavy" onClick="startHeavy" title="Start heavy process"></Button>
+        <Button class="button" id="butOpenWindow" onClick="openWindow" title="Open dialog"></Button>
+        <Button class="button" id="butCloseWindow" onClick="closeWindow" title="Close"></Button>
+    </Window>
+</Alloy>

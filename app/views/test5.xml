@@ -1,0 +1,3 @@
+<Alloy>
+	<Require id="test" src="test" type="view"/>
+</Alloy>

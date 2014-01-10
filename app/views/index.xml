@@ -1,0 +1,15 @@
+<Alloy>
+    <Window title="Defer to the Max" class="container">
+    	<Label class="button">Test cases: </Label>
+        <Button class="button" title="Test 1" onClick="openTest1"/> 
+        <Button class="button" title="Test 2" onClick="openTest2"/>
+        <Button class="button" title="Test 3" onClick="openTest3"/>
+        <Button class="button" title="Test 4" onClick="openTest4"/>
+        <Button class="button" title="Test 5" onClick="openTest5"/> 
+    </Window>
+</Alloy>
+
+
+
+
+

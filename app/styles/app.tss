@@ -1,0 +1,14 @@
+".container": {
+	backgroundColor: "#fff",
+	layout: 'vertical'
+}
+
+".button":{
+    width: Ti.UI.SIZE,
+    top: '30dp',
+    
+    font: {
+		fontSize: 20,
+		fontFamily: 'Helvetica Neue'
+	},
+}
